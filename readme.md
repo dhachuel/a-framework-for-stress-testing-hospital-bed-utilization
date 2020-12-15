@@ -83,7 +83,7 @@ The overall nature of the data is time-varying and therefore we will explore a n
 
 ### **Summary of work completed to date: (~1-2 paragraphs)**
 
->   All work is publicly available here: 
+>   All work is publicly available here: https://github.com/dhachuel/a-framework-for-stress-testing-hospital-bed-utilization
 
 -   literature research to identify potential predictive factors for our outcome
 -   collected and combined overnight hospital bed utilization data from the NHS (approx. 10,000 observations, 321 centers across 42 quarters from 2010 to 2020)
